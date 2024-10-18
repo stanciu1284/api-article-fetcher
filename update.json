@@ -1,0 +1,10 @@
+{
+    "version": "1.0.4",
+    "changelog": "Changelog pentru versiunea 1.0.3: bug fix-uri și îmbunătățiri.",
+    "plugin_url": "https://example.com/my-plugin.zip",
+    "new_version": "1.0.5",
+    "requires": "5.0",
+    "tested": "6.0",
+    "last_updated": "2024-10-16",
+    "package": "https://example.com/my-plugin.zip"
+}
